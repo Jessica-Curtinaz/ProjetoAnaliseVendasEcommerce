@@ -1,0 +1,311 @@
+ID_Cliente;Nome_Completo;Email;Telefone;ID_Data_Cadastro;Cidade;Estado;Pais;Data_Nascimento;Genero;Segmento;Status
+2001;Ana Clara Souza;ana.souza@email.com;(11) 98765-0001;20230115;São Paulo;SP;Brasil;20/03/1988;Feminino;Pessoa Física;Ativo
+2002;Bruno Henrique Lima;bruno.lima@email.com;(21) 98765-0002;20221120;Rio de Janeiro;RJ;Brasil;10/07/1992;Masculino;Pessoa Física;Ativo
+2003;Carla Regina Santos;carla.santos@email.com;(31) 98765-0003;20240201;Belo Horizonte;MG;Brasil;05/01/1985;Feminino;Pessoa Física;Ativo
+2004;Daniel Alves Pereira;daniel.pereira@email.com;(41) 98765-0004;20230510;Curitiba;PR;Brasil;18/09/1990;Masculino;Pessoa Física;Ativo
+2005;Elisa Maria Costa;elisa.costa@email.com;(51) 98765-0005;20220822;Porto Alegre;RS;Brasil;03/12/1993;Feminino;Pessoa Física;Ativo
+2006;Fernando Luiz Rocha;fernando.rocha@email.com;(61) 98765-0006;20230301;Brasília;DF;Brasil;25/06/1987;Masculino;Pessoa Física;Ativo
+2007;Gabriela Dias Martins;gabriela.martins@email.com;(71) 98765-0007;20240105;Salvador;BA;Brasil;12/04/1996;Feminino;Pessoa Física;Ativo
+2008;Hugo César Oliveira;hugo.oliveira@email.com;(81) 98765-0008;20221010;Recife;PE;Brasil;28/02/1989;Masculino;Pessoa Física;Ativo
+2009;Isabela Cristina Alves;isabela.alves@email.com;(91) 98765-0009;20230701;Belém;PA;Brasil;07/08/1994;Feminino;Pessoa Física;Ativo
+2010;João Pedro Santos;joao.santos@email.com;(11) 98765-0010;20220905;São Paulo;SP;Brasil;11/11/1986;Masculino;Pessoa Física;Ativo
+2011;Karen Lemos Vieira;karen.vieira@email.com;(21) 98765-0011;20230418;Rio de Janeiro;RJ;Brasil;29/05/1991;Feminino;Pessoa Física;Ativo
+2012;Lucas Gabriel Mendes;lucas.mendes@email.com;(31) 98765-0012;20240308;Belo Horizonte;MG;Brasil;20/01/1997;Masculino;Pessoa Física;Ativo
+2013;Mariana Ferreira Nunes;mariana.nunes@email.com;(41) 98765-0013;20221201;Curitiba;PR;Brasil;02/10/1984;Feminino;Pessoa Física;Ativo
+2014;Nicolas Souza Pinto;nicolas.pinto@email.com;(51) 98765-0014;20230625;Porto Alegre;RS;Brasil;04/04/1999;Masculino;Pessoa Física;Ativo
+2015;Olivia Gomes Ribeiro;olivia.ribeiro@email.com;(61) 98765-0015;20240120;Brasília;DF;Brasil;16/08/1983;Feminino;Pessoa Física;Ativo
+2016;Paulo Roberto Castro;paulo.castro@email.com;(71) 98765-0016;20220707;Salvador;BA;Brasil;09/02/1995;Masculino;Pessoa Física;Ativo
+2017;Quezia Almeida Santos;quezia.santos@email.com;(81) 98765-0017;20230214;Recife;PE;Brasil;23/11/1990;Feminino;Pessoa Física;Ativo
+2018;Rafael Barbosa Silva;rafael.silva@email.com;(91) 98765-0018;20240315;Belém;PA;Brasil;01/05/1982;Masculino;Pessoa Física;Ativo
+2019;Sofia Mendes Costa;sofia.costa@email.com;(11) 98765-0019;20221101;São Paulo;SP;Brasil;19/07/1996;Feminino;Pessoa Física;Ativo
+2020;Thiago Nunes Oliveira;thiago.oliveira@email.com;(21) 98765-0020;20230808;Rio de Janeiro;RJ;Brasil;06/03/1987;Masculino;Pessoa Física;Ativo
+2021;Úrsula Pereira Lima;ursula.lima@email.com;(31) 98765-0021;20240125;Belo Horizonte;MG;Brasil;28/09/1994;Feminino;Pessoa Física;Ativo
+2022;Vicente Rocha Santos;vicente.santos@email.com;(41) 98765-0022;20221015;Curitiba;PR;Brasil;14/12/1980;Masculino;Pessoa Física;Ativo
+2023;Yasmin Vieira Costa;yasmin.costa@email.com;(51) 98765-0023;20230320;Porto Alegre;RS;Brasil;02/02/1997;Feminino;Pessoa Física;Ativo
+2024;Wallace Gomes Alves;wallace.alves@email.com;(61) 98765-0024;20240210;Brasília;DF;Brasil;17/06/1981;Masculino;Pessoa Física;Ativo
+2025;Xenia Dias Ribeiro;xenia.ribeiro@email.com;(71) 98765-0025;20220928;Salvador;BA;Brasil;09/04/1993;Feminino;Pessoa Física;Ativo
+2026;Yuri Martins Pereira;yuri.pereira@email.com;(81) 98765-0026;20230505;Recife;PE;Brasil;21/10/1986;Masculino;Pessoa Física;Ativo
+2027;Zara Nunes Oliveira;zara.oliveira@email.com;(91) 98765-0027;20240301;Belém;PA;Brasil;04/07/1995;Feminino;Pessoa Física;Ativo
+2028;Arthur Silva Santos;arthur.santos@email.com;(11) 98765-0028;20221212;São Paulo;SP;Brasil;26/01/1989;Masculino;Pessoa Física;Ativo
+2029;Beatriz Lima Costa;beatriz.costa@email.com;(21) 98765-0029;20230601;Rio de Janeiro;RJ;Brasil;13/03/1992;Feminino;Pessoa Física;Ativo
+2030;Caio Mendes Rocha;caio.rocha@email.com;(31) 98765-0030;20230110;Belo Horizonte;MG;Brasil;08/09/1984;Masculino;Pessoa Física;Ativo
+2031;Diana Ferreira Alves;diana.alves@email.com;(41) 98765-0031;20220725;Curitiba;PR;Brasil;05/05/1998;Feminino;Pessoa Física;Ativo
+2032;Enzo Gabriel Dias;enzo.dias@email.com;(51) 98765-0032;20230208;Porto Alegre;RS;Brasil;19/11/1981;Masculino;Pessoa Física;Ativo
+2033;Flávia Gomes Pereira;flavia.pereira@email.com;(61) 98765-0033;20240320;Brasília;DF;Brasil;30/06/1996;Feminino;Pessoa Física;Ativo
+2034;Gabriel Oliveira Martins;gabriel.martins@email.com;(71) 98765-0034;20221115;Salvador;BA;Brasil;01/02/1983;Masculino;Pessoa Física;Ativo
+2035;Helena Pinto Ribeiro;helena.ribeiro@email.com;(81) 98765-0035;20230910;Recife;PE;Brasil;17/10/1994;Feminino;Pessoa Física;Ativo
+2036;Igor Santos Cruz;igor.cruz@email.com;(91) 98765-0036;20240101;Belém;PA;Brasil;24/04/1988;Masculino;Pessoa Física;Ativo
+2037;Júlia Vieira Lima;julia.lima@email.com;(11) 98765-0037;20220801;São Paulo;SP;Brasil;09/07/1991;Feminino;Pessoa Física;Ativo
+2038;Kauã Rocha Alves;kaua.alves@email.com;(21) 98765-0038;20230312;Rio de Janeiro;RJ;Brasil;03/03/1997;Masculino;Pessoa Física;Ativo
+2039;Larissa Mendes Souza;larissa.souza@email.com;(31) 98765-0039;20240228;Belo Horizonte;MG;Brasil;19/12/1985;Feminino;Pessoa Física;Ativo
+2040;Mateus Costa Pereira;mateus.pereira@email.com;(41) 98765-0040;20221020;Curitiba;PR;Brasil;01/06/1990;Masculino;Pessoa Física;Ativo
+2041;Natália Ribeiro Santos;natalia.santos@email.com;(51) 98765-0041;20230705;Porto Alegre;RS;Brasil;14/09/1993;Feminino;Pessoa Física;Ativo
+2042;Otávio Alves Oliveira;otavio.oliveira@email.com;(61) 98765-0042;20240118;Brasília;DF;Brasil;27/01/1987;Masculino;Pessoa Física;Ativo
+2043;Paula Martins Lima;paula.lima@email.com;(71) 98765-0043;20220901;Salvador;BA;Brasil;08/08/1996;Feminino;Pessoa Física;Ativo
+2044;Quincas Pereira Neves;quincas.neves@email.com;(81) 98765-0044;20230425;Recife;PE;Brasil;16/05/1989;Masculino;Pessoa Física;Ativo
+2045;Renata Souza Cruz;renata.cruz@email.com;(91) 98765-0045;20240305;Belém;PA;Brasil;01/01/1994;Feminino;Pessoa Física;Ativo
+2046;Samuel Dias Oliveira;samuel.oliveira@email.com;(11) 98765-0046;20221129;São Paulo;SP;Brasil;23/07/1986;Masculino;Pessoa Física;Ativo
+2047;Tainá Costa Alves;taina.alves@email.com;(21) 98765-0047;20230515;Rio de Janeiro;RJ;Brasil;09/03/1991;Feminino;Pessoa Física;Ativo
+2048;Ulysses Lima Santos;ulysses.santos@email.com;(31) 98765-0048;20240108;Belo Horizonte;MG;Brasil;12/10/1997;Masculino;Pessoa Física;Ativo
+2049;Vanessa Rocha Pereira;vanessa.pereira@email.com;(41) 98765-0049;20220810;Curitiba;PR;Brasil;28/04/1984;Feminino;Pessoa Física;Ativo
+2050;William Gomes Ribeiro;william.ribeiro@email.com;(51) 98765-0050;20230305;Porto Alegre;RS;Brasil;07/01/1999;Masculino;Pessoa Física;Ativo
+2051;Yara Martins Dias;yara.dias@email.com;(61) 98765-0051;20240215;Brasília;DF;Brasil;11/06/1983;Feminino;Pessoa Física;Ativo
+2052;Zeca Nunes Costa;zeca.costa@email.com;(71) 98765-0052;20221001;Salvador;BA;Brasil;03/11/1995;Masculino;Pessoa Física;Ativo
+2053;Alice Pereira Alves;alice.alves@email.com;(81) 98765-0053;20230710;Recife;PE;Brasil;16/02/1990;Feminino;Pessoa Física;Ativo
+2054;Bernardo Silva Santos;bernardo.santos@email.com;(91) 98765-0054;20240122;Belém;PA;Brasil;24/09/1982;Masculino;Pessoa Física;Ativo
+2055;Clara Lima Oliveira;clara.oliveira@email.com;(11) 98765-0055;20221205;São Paulo;SP;Brasil;10/05/1996;Feminino;Pessoa Física;Ativo
+2056;Diego Mendes Costa;diego.costa@email.com;(21) 98765-0056;20230615;Rio de Janeiro;RJ;Brasil;01/01/1987;Masculino;Pessoa Física;Ativo
+2057;Eduarda Rocha Pereira;eduarda.pereira@email.com;(31) 98765-0057;20240310;Belo Horizonte;MG;Brasil;03/08/1994;Feminino;Pessoa Física;Ativo
+2058;Felipe Gomes Alves;felipe.alves@email.com;(41) 98765-0058;20220701;Curitiba;PR;Brasil;18/10/1980;Masculino;Pessoa Física;Ativo
+2059;Giovanna Dias Martins;giovanna.martins@email.com;(51) 98765-0059;20230220;Porto Alegre;RS;Brasil;29/04/1997;Feminino;Pessoa Física;Ativo
+2060;Henrique Oliveira Pinto;henrique.pinto@email.com;(61) 98765-0060;20240103;Brasília;DF;Brasil;06/09/1981;Masculino;Pessoa Física;Ativo
+2061;Ingrid Santos Ribeiro;ingrid.ribeiro@email.com;(71) 98765-0061;20221108;Salvador;BA;Brasil;25/12/1993;Feminino;Pessoa Física;Ativo
+2062;Jorge Costa Cruz;jorge.cruz@email.com;(81) 98765-0062;20230818;Recife;PE;Brasil;14/03/1986;Masculino;Pessoa Física;Ativo
+2063;Karina Alves Oliveira;karina.oliveira@email.com;(91) 98765-0063;20240205;Belém;PA;Brasil;01/06/1995;Feminino;Pessoa Física;Ativo
+2064;Leonardo Lima Santos;leonardo.santos@email.com;(11) 98765-0064;20220912;São Paulo;SP;Brasil;07/02/1988;Masculino;Pessoa Física;Ativo
+2065;Manuela Mendes Pereira;manuela.pereira@email.com;(21) 98765-0065;20230405;Rio de Janeiro;RJ;Brasil;20/10/1991;Feminino;Pessoa Física;Ativo
+2066;Nathan Rocha Alves;nathan.alves@email.com;(31) 98765-0066;20240325;Belo Horizonte;MG;Brasil;03/07/1997;Masculino;Pessoa Física;Ativo
+2067;Olívia Gomes Souza;olivia.souza@email.com;(41) 98765-0067;20221220;Curitiba;PR;Brasil;11/01/1984;Feminino;Pessoa Física;Ativo
+2068;Pedro Dias Martins;pedro.martins@email.com;(51) 98765-0068;20230608;Porto Alegre;RS;Brasil;26/05/1999;Masculino;Pessoa Física;Ativo
+2069;Quitéria Oliveira Pinto;quiteria.pinto@email.com;(61) 98765-0069;20240112;Brasília;DF;Brasil;02/11/1983;Feminino;Pessoa Física;Ativo
+2070;Rodrigo Santos Ribeiro;rodrigo.ribeiro@email.com;(71) 98765-0070;20220718;Salvador;BA;Brasil;15/08/1995;Masculino;Pessoa Física;Ativo
+2071;Sabrina Costa Cruz;sabrina.cruz@email.com;(81) 98765-0071;20230201;Recife;PE;Brasil;20/04/1990;Feminino;Pessoa Física;Ativo
+2072;Tiago Alves Oliveira;tiago.oliveira@email.com;(91) 98765-0072;20240303;Belém;PA;Brasil;07/07/1982;Masculino;Pessoa Física;Ativo
+2073;Viviane Lima Santos;viviane.santos@email.com;(11) 98765-0073;20221005;São Paulo;SP;Brasil;13/01/1996;Feminino;Pessoa Física;Ativo
+2074;Washington Mendes Pereira;washington.pereira@email.com;(21) 98765-0074;20230722;Rio de Janeiro;RJ;Brasil;04/09/1987;Masculino;Pessoa Física;Ativo
+2075;Ximena Rocha Alves;ximena.alves@email.com;(31) 98765-0075;20240128;Belo Horizonte;MG;Brasil;01/03/1994;Feminino;Pessoa Física;Ativo
+2076;Yago Gomes Souza;yago.souza@email.com;(41) 98765-0076;20221110;Curitiba;PR;Brasil;19/05/1980;Masculino;Pessoa Física;Ativo
+2077;Zélia Dias Martins;zelia.martins@email.com;(51) 98765-0077;20230801;Porto Alegre;RS;Brasil;06/11/1997;Feminino;Pessoa Física;Ativo
+2078;Álvaro Oliveira Pinto;alvaro.pinto@email.com;(61) 98765-0078;20240220;Brasília;DF;Brasil;10/02/1981;Masculino;Pessoa Física;Ativo
+2079;Bruna Santos Ribeiro;bruna.ribeiro@email.com;(71) 98765-0079;20220918;Salvador;BA;Brasil;27/07/1993;Feminino;Pessoa Física;Ativo
+2080;César Costa Cruz;cesar.cruz@email.com;(81) 98765-0080;20230401;Recife;PE;Brasil;02/01/1986;Masculino;Pessoa Física;Ativo
+2081;Denise Alves Oliveira;denise.oliveira@email.com;(91) 98765-0081;20240318;Belém;PA;Brasil;15/09/1995;Feminino;Pessoa Física;Ativo
+2082;Eduardo Lima Santos;eduardo.santos@email.com;(11) 98765-0082;20221225;São Paulo;SP;Brasil;08/06/1988;Masculino;Pessoa Física;Ativo
+2083;Fernanda Mendes Pereira;fernanda.pereira@email.com;(21) 98765-0083;20230628;Rio de Janeiro;RJ;Brasil;20/02/1991;Feminino;Pessoa Física;Ativo
+2084;Guilherme Rocha Alves;guilherme.alves@email.com;(31) 98765-0084;20240115;Belo Horizonte;MG;Brasil;01/09/1997;Masculino;Pessoa Física;Ativo
+2085;Heloísa Gomes Souza;heloisa.souza@email.com;(41) 98765-0085;20220712;Curitiba;PR;Brasil;04/03/1984;Feminino;Pessoa Física;Ativo
+2086;Ícaro Dias Martins;icaro.martins@email.com;(51) 98765-0086;20230225;Porto Alegre;RS;Brasil;10/10/1999;Masculino;Pessoa Física;Ativo
+2087;Joana Oliveira Pinto;joana.pinto@email.com;(61) 98765-0087;20240307;Brasília;DF;Brasil;23/05/1983;Feminino;Pessoa Física;Ativo
+2088;Kleber Santos Ribeiro;kleber.ribeiro@email.com;(71) 98765-0088;20221105;Salvador;BA;Brasil;01/12/1995;Masculino;Pessoa Física;Ativo
+2089;Lívia Costa Cruz;livia.cruz@email.com;(81) 98765-0089;20230825;Recife;PE;Brasil;18/08/1990;Feminino;Pessoa Física;Ativo
+2090;Murilo Alves Oliveira;murilo.oliveira@email.com;(91) 98765-0090;20240208;Belém;PA;Brasil;05/04/1982;Masculino;Pessoa Física;Ativo
+2091;Natália Lima Santos;natalia.santos@email.com;(11) 98765-0091;20220920;São Paulo;SP;Brasil;29/03/1996;Feminino;Pessoa Física;Ativo
+2092;Osvaldo Mendes Pereira;osvaldo.pereira@email.com;(21) 98765-0092;20230501;Rio de Janeiro;RJ;Brasil;14/11/1987;Masculino;Pessoa Física;Ativo
+2093;Priscila Rocha Alves;priscila.alves@email.com;(31) 98765-0093;20240120;Belo Horizonte;MG;Brasil;02/07/1994;Feminino;Pessoa Física;Ativo
+2094;Quênia Gomes Souza;quenia.souza@email.com;(41) 98765-0094;20221028;Curitiba;PR;Brasil;23/01/1980;Feminino;Pessoa Física;Ativo
+2095;Roberto Dias Martins;roberto.martins@email.com;(51) 98765-0095;20230715;Porto Alegre;RS;Brasil;09/08/1999;Masculino;Pessoa Física;Ativo
+2096;Sara Oliveira Pinto;sara.pinto@email.com;(61) 98765-0096;20240201;Brasília;DF;Brasil;16/04/1983;Feminino;Pessoa Física;Ativo
+2097;Tarcísio Santos Ribeiro;tarcisio.ribeiro@email.com;(71) 98765-0097;20220908;Salvador;BA;Brasil;05/10/1995;Masculino;Pessoa Física;Ativo
+2098;Úrsula Costa Cruz;ursula.cruz@email.com;(81) 98765-0098;20230328;Recife;PE;Brasil;01/01/1990;Feminino;Pessoa Física;Ativo
+2099;Vinícius Alves Oliveira;vinicius.oliveira@email.com;(91) 98765-0099;20240312;Belém;PA;Brasil;13/06/1982;Masculino;Pessoa Física;Ativo
+2100;Yasmin Lima Santos;yasmin.santos@email.com;(11) 98765-0100;20221118;São Paulo;SP;Brasil;27/02/1996;Feminino;Pessoa Física;Ativo
+2101;Zeca Mendes Pereira;zeca.pereira@email.com;(21) 98765-0101;20230812;Rio de Janeiro;RJ;Brasil;09/09/1987;Masculino;Pessoa Física;Ativo
+2102;Amélia Rocha Alves;amelia.alves@email.com;(31) 98765-0102;20240129;Belo Horizonte;MG;Brasil;14/04/1994;Feminino;Pessoa Física;Ativo
+2103;Breno Gomes Souza;breno.souza@email.com;(41) 98765-0103;20221008;Curitiba;PR;Brasil;01/07/1980;Masculino;Pessoa Física;Ativo
+2104;Cecília Dias Martins;cecilia.martins@email.com;(51) 98765-0104;20230301;Porto Alegre;RS;Brasil;10/12/1997;Feminino;Pessoa Física;Ativo
+2105;Davi Oliveira Pinto;davi.pinto@email.com;(61) 98765-0105;20240222;Brasília;DF;Brasil;17/03/1981;Masculino;Pessoa Física;Ativo
+2106;Emília Santos Ribeiro;emilia.ribeiro@email.com;(71) 98765-0106;20220925;Salvador;BA;Brasil;05/08/1993;Feminino;Pessoa Física;Ativo
+2107;Fábio Costa Cruz;fabio.cruz@email.com;(81) 98765-0107;20230510;Recife;PE;Brasil;08/02/1986;Masculino;Pessoa Física;Ativo
+2108;Giovana Alves Oliveira;giovana.oliveira@email.com;(91) 98765-0108;20240306;Belém;PA;Brasil;20/11/1995;Feminino;Pessoa Física;Ativo
+2109;Heitor Lima Santos;heitor.santos@email.com;(11) 98765-0109;20221201;São Paulo;SP;Brasil;02/04/1988;Masculino;Pessoa Física;Ativo
+2110;Isadora Mendes Pereira;isadora.pereira@email.com;(21) 98765-0110;20230610;Rio de Janeiro;RJ;Brasil;16/09/1991;Feminino;Pessoa Física;Ativo
+2111;Joaquim Rocha Alves;joaquim.alves@email.com;(31) 98765-0111;20240107;Belo Horizonte;MG;Brasil;01/01/1997;Masculino;Pessoa Física;Ativo
+2112;Laila Gomes Souza;laila.souza@email.com;(41) 98765-0112;20220705;Curitiba;PR;Brasil;15/06/1984;Feminino;Pessoa Física;Ativo
+2113;Miguel Dias Martins;miguel.martins@email.com;(51) 98765-0113;20230210;Porto Alegre;RS;Brasil;28/03/1999;Masculino;Pessoa Física;Ativo
+2114;Nicole Oliveira Pinto;nicole.pinto@email.com;(61) 98765-0114;20240328;Brasília;DF;Brasil;09/10/1983;Feminino;Pessoa Física;Ativo
+2115;Otávio Santos Ribeiro;otavio.ribeiro@email.com;(71) 98765-0115;20221120;Salvador;BA;Brasil;01/04/1995;Masculino;Pessoa Física;Ativo
+2116;Pietra Costa Cruz;pietra.cruz@email.com;(81) 98765-0116;20230905;Recife;PE;Brasil;12/12/1990;Feminino;Pessoa Física;Ativo
+2117;Quincas Alves Oliveira;quincas.oliveira@email.com;(91) 98765-0117;20240114;Belém;PA;Brasil;20/08/1982;Masculino;Pessoa Física;Ativo
+2118;Rafaela Lima Santos;rafaela.santos@email.com;(11) 98765-0118;20220815;São Paulo;SP;Brasil;03/09/1996;Feminino;Pessoa Física;Ativo
+2119;Sérgio Mendes Pereira;sergio.pereira@email.com;(21) 98765-0119;20230322;Rio de Janeiro;RJ;Brasil;17/05/1987;Masculino;Pessoa Física;Ativo
+2120;Tainá Rocha Alves;taina.alves@email.com;(31) 98765-0120;20240209;Belo Horizonte;MG;Brasil;28/01/1994;Feminino;Pessoa Física;Ativo
+2121;Ulisses Gomes Souza;ulisses.souza@email.com;(41) 98765-0121;20221012;Curitiba;PR;Brasil;07/03/1980;Masculino;Pessoa Física;Ativo
+2122;Valentina Dias Martins;valentina.martins@email.com;(51) 98765-0122;20230728;Porto Alegre;RS;Brasil;19/06/1997;Feminino;Pessoa Física;Ativo
+2123;Wagner Oliveira Pinto;wagner.pinto@email.com;(61) 98765-0123;20240104;Brasília;DF;Brasil;04/11/1981;Masculino;Pessoa Física;Ativo
+2124;Xuxa Santos Ribeiro;xuxa.ribeiro@email.com;(71) 98765-0124;20221101;Salvador;BA;Brasil;11/02/1993;Feminino;Pessoa Física;Ativo
+2125;Yago Costa Cruz;yago.cruz@email.com;(81) 98765-0125;20230810;Recife;PE;Brasil;23/09/1986;Masculino;Pessoa Física;Ativo
+2126;Zilda Alves Oliveira;zilda.oliveira@email.com;(91) 98765-0126;20240225;Belém;PA;Brasil;08/05/1995;Feminino;Pessoa Física;Ativo
+2127;André Lima Santos;andre.santos@email.com;(11) 98765-0127;20220903;São Paulo;SP;Brasil;05/12/1988;Masculino;Pessoa Física;Ativo
+2128;Bianca Mendes Pereira;bianca.pereira@email.com;(21) 98765-0128;20230410;Rio de Janeiro;RJ;Brasil;10/06/1991;Feminino;Pessoa Física;Ativo
+2129;Cássio Rocha Alves;cassio.alves@email.com;(31) 98765-0129;20240301;Belo Horizonte;MG;Brasil;18/03/1997;Masculino;Pessoa Física;Ativo
+2130;Débora Gomes Souza;debora.souza@email.com;(41) 98765-0130;20221215;Curitiba;PR;Brasil;02/09/1984;Feminino;Pessoa Física;Ativo
+2131;Érico Dias Martins;erico.martins@email.com;(51) 98765-0131;20230620;Porto Alegre;RS;Brasil;01/02/1999;Masculino;Pessoa Física;Ativo
+2132;Fabiana Oliveira Pinto;fabiana.pinto@email.com;(61) 98765-0132;20240110;Brasília;DF;Brasil;14/07/1983;Feminino;Pessoa Física;Ativo
+2133;Geraldo Santos Ribeiro;geraldo.ribeiro@email.com;(71) 98765-0133;20220828;Salvador;BA;Brasil;26/01/1995;Masculino;Pessoa Física;Ativo
+2134;Heloísa Costa Cruz;heloisa.cruz@email.com;(81) 98765-0134;20230315;Recife;PE;Brasil;03/10/1990;Feminino;Pessoa Física;Ativo
+2135;Ítalo Alves Oliveira;italo.oliveira@email.com;(91) 98765-0135;20240201;Belém;PA;Brasil;11/05/1982;Masculino;Pessoa Física;Ativo
+2136;Janaína Lima Santos;janaina.santos@email.com;(11) 98765-0136;20221018;São Paulo;SP;Brasil;22/08/1996;Feminino;Pessoa Física;Ativo
+2137;Kleber Mendes Pereira;kleber.pereira@email.com;(21) 98765-0137;20230701;Rio de Janeiro;RJ;Brasil;07/04/1987;Masculino;Pessoa Física;Ativo
+2138;Lúcia Rocha Alves;lucia.alves@email.com;(31) 98765-0138;20240123;Belo Horizonte;MG;Brasil;19/11/1994;Feminino;Pessoa Física;Ativo
+2139;Marcos Gomes Souza;marcos.souza@email.com;(41) 98765-0139;20221105;Curitiba;PR;Brasil;14/02/1980;Masculino;Pessoa Física;Ativo
+2140;Natália Dias Martins;natalia.martins@email.com;(51) 98765-0140;20230815;Porto Alegre;RS;Brasil;09/09/1997;Feminino;Pessoa Física;Ativo
+2141;Otávio Oliveira Pinto;otavio.pinto@email.com;(61) 98765-0141;20240205;Brasília;DF;Brasil;20/06/1981;Masculino;Pessoa Física;Ativo
+2142;Patrícia Santos Ribeiro;patricia.ribeiro@email.com;(71) 98765-0142;20220910;Salvador;BA;Brasil;03/03/1993;Feminino;Pessoa Física;Ativo
+2143;Quincas Costa Cruz;quincas.cruz@email.com;(81) 98765-0143;20230412;Recife;PE;Brasil;25/10/1986;Masculino;Pessoa Física;Ativo
+2144;Renata Alves Oliveira;renata.oliveira@email.com;(91) 98765-0144;20240322;Belém;PA;Brasil;11/04/1995;Feminino;Pessoa Física;Ativo
+2145;Samuel Lima Santos;samuel.santos@email.com;(11) 98765-0145;20221208;São Paulo;SP;Brasil;01/01/1988;Masculino;Pessoa Física;Ativo
+2146;Tainá Mendes Pereira;taina.pereira@email.com;(21) 98765-0146;20230605;Rio de Janeiro;RJ;Brasil;07/07/1991;Feminino;Pessoa Física;Ativo
+2147;Ulisses Rocha Alves;ulisses.alves@email.com;(31) 98765-0147;20240117;Belo Horizonte;MG;Brasil;13/08/1997;Masculino;Pessoa Física;Ativo
+2148;Vanessa Gomes Souza;vanessa.souza@email.com;(41) 98765-0148;20220720;Curitiba;PR;Brasil;09/02/1984;Feminino;Pessoa Física;Ativo
+2149;William Dias Martins;william.martins@email.com;(51) 98765-0149;20230212;Porto Alegre;RS;Brasil;29/09/1999;Masculino;Pessoa Física;Ativo
+2150;Xenia Oliveira Pinto;xenia.pinto@email.com;(61) 98765-0150;20240305;Brasília;DF;Brasil;06/06/1983;Feminino;Pessoa Física;Ativo
+2151;Yuri Santos Ribeiro;yuri.ribeiro@email.com;(71) 98765-0151;20221003;Salvador;BA;Brasil;18/11/1995;Masculino;Pessoa Física;Ativo
+2152;Zara Costa Cruz;zara.cruz@email.com;(81) 98765-0152;20230708;Recife;PE;Brasil;01/05/1990;Feminino;Pessoa Física;Ativo
+2153;Arthur Alves Oliveira;arthur.oliveira@email.com;(91) 98765-0153;20240125;Belém;PA;Brasil;10/12/1982;Masculino;Pessoa Física;Ativo
+2154;Beatriz Lima Santos;beatriz.santos@email.com;(11) 98765-0154;20221112;São Paulo;SP;Brasil;04/04/1996;Feminino;Pessoa Física;Ativo
+2155;Caio Mendes Pereira;caio.pereira@email.com;(21) 98765-0155;20230805;Rio de Janeiro;RJ;Brasil;15/01/1987;Masculino;Pessoa Física;Ativo
+2156;Diana Rocha Alves;diana.alves@email.com;(31) 98765-0156;20240218;Belo Horizonte;MG;Brasil;01/09/1994;Feminino;Pessoa Física;Ativo
+2157;Enzo Gomes Souza;enzo.souza@email.com;(41) 98765-0157;20220922;Curitiba;PR;Brasil;20/03/1980;Masculino;Pessoa Física;Ativo
+2158;Flávia Dias Martins;flavia.martins@email.com;(51) 98765-0158;20230408;Porto Alegre;RS;Brasil;17/10/1997;Feminino;Pessoa Física;Ativo
+2159;Gabriel Oliveira Pinto;gabriel.pinto@email.com;(61) 98765-0159;20240310;Brasília;DF;Brasil;02/05/1981;Masculino;Pessoa Física;Ativo
+2160;Helena Santos Ribeiro;helena.ribeiro@email.com;(71) 98765-0160;20221201;Salvador;BA;Brasil;25/11/1993;Feminino;Pessoa Física;Ativo
+2161;Igor Costa Cruz;igor.cruz@email.com;(81) 98765-0161;20230618;Recife;PE;Brasil;01/08/1986;Masculino;Pessoa Física;Ativo
+2162;Júlia Alves Oliveira;julia.oliveira@email.com;(91) 98765-0162;20240101;Belém;PA;Brasil;10/02/1995;Feminino;Pessoa Física;Ativo
+2163;Kauã Lima Santos;kaua.santos@email.com;(11) 98765-0163;20220707;São Paulo;SP;Brasil;07/07/1988;Masculino;Pessoa Física;Ativo
+2164;Larissa Mendes Pereira;larissa.pereira@email.com;(21) 98765-0164;20230220;Rio de Janeiro;RJ;Brasil;01/01/1991;Feminino;Pessoa Física;Ativo
+2165;Mateus Rocha Alves;mateus.alves@email.com;(31) 98765-0165;20240320;Belo Horizonte;MG;Brasil;15/06/1997;Masculino;Pessoa Física;Ativo
+2166;Natália Gomes Souza;natalia.souza@email.com;(41) 98765-0166;20221010;Curitiba;PR;Brasil;08/08/1984;Feminino;Pessoa Física;Ativo
+2167;Olívia Dias Martins;olivia.martins@email.com;(51) 98765-0167;20230725;Porto Alegre;RS;Brasil;01/03/1999;Feminino;Pessoa Física;Ativo
+2168;Pedro Oliveira Pinto;pedro.pinto@email.com;(61) 98765-0168;20240112;Brasília;DF;Brasil;10/10/1983;Masculino;Pessoa Física;Ativo
+2169;Quezia Santos Ribeiro;quezia.ribeiro@email.com;(71) 98765-0169;20220805;Salvador;BA;Brasil;19/05/1995;Feminino;Pessoa Física;Ativo
+2170;Rafael Costa Cruz;rafael.cruz@email.com;(81) 98765-0170;20230301;Recife;PE;Brasil;04/12/1990;Masculino;Pessoa Física;Ativo
+2171;Sofia Alves Oliveira;sofia.oliveira@email.com;(91) 98765-0171;20240220;Belém;PA;Brasil;16/07/1982;Feminino;Pessoa Física;Ativo
+2172;Tiago Lima Santos;tiago.santos@email.com;(11) 98765-0172;20220915;São Paulo;SP;Brasil;05/01/1996;Masculino;Pessoa Física;Ativo
+2173;Úrsula Mendes Pereira;ursula.pereira@email.com;(21) 98765-0173;20230420;Rio de Janeiro;RJ;Brasil;28/08/1991;Feminino;Pessoa Física;Ativo
+2174;Vicente Rocha Alves;vicente.alves@email.com;(31) 98765-0174;20240308;Belo Horizonte;MG;Brasil;01/04/1997;Masculino;Pessoa Física;Ativo
+2175;Yasmin Gomes Souza;yasmin.souza@email.com;(41) 98765-0175;20221201;Curitiba;PR;Brasil;11/11/1984;Feminino;Pessoa Física;Ativo
+2176;Wallace Dias Martins;wallace.martins@email.com;(51) 98765-0176;20230625;Porto Alegre;RS;Brasil;06/06/1999;Masculino;Pessoa Física;Ativo
+2177;Xenia Oliveira Pinto;xenia.pinto@email.com;(61) 98765-0177;20240120;Brasília;DF;Brasil;13/09/1983;Feminino;Pessoa Física;Ativo
+2178;Yuri Santos Ribeiro;yuri.ribeiro@email.com;(71) 98765-0178;20220710;Salvador;BA;Brasil;20/02/1995;Masculino;Pessoa Física;Ativo
+2179;Zara Costa Cruz;zara.cruz@email.com;(81) 98765-0179;20230215;Recife;PE;Brasil;05/07/1990;Feminino;Pessoa Física;Ativo
+2180;Arthur Alves Oliveira;arthur.oliveira@email.com;(91) 98765-0180;20240315;Belém;PA;Brasil;18/04/1982;Masculino;Pessoa Física;Ativo
+2181;Bianca Lima Santos;bianca.santos@email.com;(11) 98765-0181;20221001;São Paulo;SP;Brasil;01/10/1996;Feminino;Pessoa Física;Ativo
+2182;Caio Mendes Pereira;caio.pereira@email.com;(21) 98765-0182;20230705;Rio de Janeiro;RJ;Brasil;10/03/1987;Masculino;Pessoa Física;Ativo
+2183;Débora Rocha Alves;debora.alves@email.com;(31) 98765-0183;20240128;Belo Horizonte;MG;Brasil;05/08/1994;Feminino;Pessoa Física;Ativo
+2184;Érico Gomes Souza;erico.souza@email.com;(41) 98765-0184;20221115;Curitiba;PR;Brasil;29/06/1980;Masculino;Pessoa Física;Ativo
+2185;Fabiana Dias Martins;fabiana.martins@email.com;(51) 98765-0185;20230801;Porto Alegre;RS;Brasil;12/02/1997;Feminino;Pessoa Física;Ativo
+2186;Geraldo Oliveira Pinto;geraldo.pinto@email.com;(61) 98765-0186;20240220;Brasília;DF;Brasil;24/07/1981;Masculino;Pessoa Física;Ativo
+2187;Heloísa Santos Ribeiro;heloisa.ribeiro@email.com;(71) 98765-0187;20220928;Salvador;BA;Brasil;01/04/1993;Feminino;Pessoa Física;Ativo
+2188;Ítalo Costa Cruz;italo.cruz@email.com;(81) 98765-0188;20230501;Recife;PE;Brasil;09/11/1986;Masculino;Pessoa Física;Ativo
+2189;Janaína Alves Oliveira;janaina.oliveira@email.com;(91) 98765-0189;20240301;Belém;PA;Brasil;28/06/1995;Feminino;Pessoa Física;Ativo
+2190;Kleber Lima Santos;kleber.santos@email.com;(11) 98765-0190;20221210;São Paulo;SP;Brasil;03/03/1988;Masculino;Pessoa Física;Ativo
+2191;Lúcia Mendes Pereira;lucia.pereira@email.com;(21) 98765-0191;20230610;Rio de Janeiro;RJ;Brasil;15/10/1991;Feminino;Pessoa Física;Ativo
+2192;Marcos Rocha Alves;marcos.alves@email.com;(31) 98765-0192;20240105;Belo Horizonte;MG;Brasil;20/07/1997;Masculino;Pessoa Física;Ativo
+2193;Natália Gomes Souza;natalia.souza@email.com;(41) 98765-0193;20220715;Curitiba;PR;Brasil;08/01/1984;Feminino;Pessoa Física;Ativo
+2194;Olívia Dias Martins;olivia.martins@email.com;(51) 98765-0194;20230201;Porto Alegre;RS;Brasil;11/08/1999;Feminino;Pessoa Física;Ativo
+2195;Pedro Oliveira Pinto;pedro.pinto@email.com;(61) 98765-0195;20240325;Brasília;DF;Brasil;29/04/1983;Masculino;Pessoa Física;Ativo
+2196;Quezia Santos Ribeiro;quezia.ribeiro@email.com;(71) 98765-0196;20221020;Salvador;BA;Brasil;07/11/1995;Feminino;Pessoa Física;Ativo
+2197;Rafael Costa Cruz;rafael.cruz@email.com;(81) 98765-0197;20230710;Recife;PE;Brasil;02/02/1990;Masculino;Pessoa Física;Ativo
+2198;Sofia Alves Oliveira;sofia.oliveira@email.com;(91) 98765-0198;20240118;Belém;PA;Brasil;10/09/1982;Feminino;Pessoa Física;Ativo
+2199;Tiago Lima Santos;tiago.santos@email.com;(11) 98765-0199;20220810;São Paulo;SP;Brasil;25/05/1996;Masculino;Pessoa Física;Ativo
+2200;Úrsula Mendes Pereira;ursula.pereira@email.com;(21) 98765-0200;20230305;Rio de Janeiro;RJ;Brasil;01/12/1991;Feminino;Pessoa Física;Ativo
+2201;Vicente Rocha Alves;vicente.alves@email.com;(31) 98765-0201;20240201;Belo Horizonte;MG;Brasil;08/08/1997;Masculino;Pessoa Física;Ativo
+2202;Yasmin Gomes Souza;yasmin.souza@email.com;(41) 98765-0202;20221120;Curitiba;PR;Brasil;19/04/1984;Feminino;Pessoa Física;Ativo
+2203;Wallace Dias Martins;wallace.martins@email.com;(51) 98765-0203;20230901;Porto Alegre;RS;Brasil;01/01/1999;Masculino;Pessoa Física;Ativo
+2204;Xenia Oliveira Pinto;xenia.pinto@email.com;(61) 98765-0204;20240310;Brasília;DF;Brasil;12/07/1983;Feminino;Pessoa Física;Ativo
+2205;Yuri Santos Ribeiro;yuri.ribeiro@email.com;(71) 98765-0205;20221005;Salvador;BA;Brasil;05/02/1995;Masculino;Pessoa Física;Ativo
+2206;Zara Costa Cruz;zara.cruz@email.com;(81) 98765-0206;20230715;Recife;PE;Brasil;20/09/1990;Feminino;Pessoa Física;Ativo
+2207;Arthur Alves Oliveira;arthur.oliveira@email.com;(91) 98765-0207;20240122;Belém;PA;Brasil;15/05/1982;Masculino;Pessoa Física;Ativo
+2208;Bianca Lima Santos;bianca.santos@email.com;(11) 98765-0208;20221215;São Paulo;SP;Brasil;01/03/1996;Feminino;Pessoa Física;Ativo
+2209;Caio Mendes Pereira;caio.pereira@email.com;(21) 98765-0209;20230620;Rio de Janeiro;RJ;Brasil;10/10/1987;Masculino;Pessoa Física;Ativo
+2210;Débora Rocha Alves;debora.alves@email.com;(31) 98765-0210;20240101;Belo Horizonte;MG;Brasil;07/07/1994;Feminino;Pessoa Física;Ativo
+2211;Érico Gomes Souza;erico.souza@email.com;(41) 98765-0211;20220728;Curitiba;PR;Brasil;28/02/1980;Masculino;Pessoa Física;Ativo
+2212;Fabiana Dias Martins;fabiana.martins@email.com;(51) 98765-0212;20230205;Porto Alegre;RS;Brasil;12/04/1999;Feminino;Pessoa Física;Ativo
+2213;Geraldo Oliveira Pinto;geraldo.pinto@email.com;(61) 98765-0213;20240320;Brasília;DF;Brasil;01/09/1981;Masculino;Pessoa Física;Ativo
+2214;Heloísa Santos Ribeiro;heloisa.ribeiro@email.com;(71) 98765-0214;20221010;Salvador;BA;Brasil;05/12/1993;Feminino;Pessoa Física;Ativo
+2215;Ítalo Costa Cruz;italo.cruz@email.com;(81) 98765-0215;20230720;Recife;PE;Brasil;16/03/1986;Masculino;Pessoa Física;Ativo
+2216;Janaína Alves Oliveira;janaina.oliveira@email.com;(91) 98765-0216;20240110;Belém;PA;Brasil;01/08/1995;Feminino;Pessoa Física;Ativo
+2217;Kleber Lima Santos;kleber.santos@email.com;(11) 98765-0217;20220818;São Paulo;SP;Brasil;22/04/1988;Masculino;Pessoa Física;Ativo
+2218;Lúcia Mendes Pereira;lucia.pereira@email.com;(21) 98765-0218;20230325;Rio de Janeiro;RJ;Brasil;03/11/1991;Feminino;Pessoa Física;Ativo
+2219;Marcos Rocha Alves;marcos.alves@email.com;(31) 98765-0219;20240205;Belo Horizonte;MG;Brasil;29/01/1997;Masculino;Pessoa Física;Ativo
+2220;Natália Gomes Souza;natalia.souza@email.com;(41) 98765-0220;20221101;Curitiba;PR;Brasil;10/06/1984;Feminino;Pessoa Física;Ativo
+2221;Olívia Dias Martins;olivia.martins@email.com;(51) 98765-0221;20230815;Porto Alegre;RS;Brasil;07/02/1999;Feminino;Pessoa Física;Ativo
+2222;Pedro Oliveira Pinto;pedro.pinto@email.com;(61) 98765-0222;20240301;Brasília;DF;Brasil;05/05/1983;Masculino;Pessoa Física;Ativo
+2223;Quezia Santos Ribeiro;quezia.ribeiro@email.com;(71) 98765-0223;20220905;Salvador;BA;Brasil;20/10/1995;Feminino;Pessoa Física;Ativo
+2224;Rafael Costa Cruz;rafael.cruz@email.com;(81) 98765-0224;20230415;Recife;PE;Brasil;08/01/1990;Masculino;Pessoa Física;Ativo
+2225;Sofia Alves Oliveira;sofia.oliveira@email.com;(91) 98765-0225;20240328;Belém;PA;Brasil;25/06/1982;Feminino;Pessoa Física;Ativo
+2226;Tiago Lima Santos;tiago.santos@email.com;(11) 98765-0226;20221220;São Paulo;SP;Brasil;19/09/1996;Masculino;Pessoa Física;Ativo
+2227;Úrsula Mendes Pereira;ursula.pereira@email.com;(21) 98765-0227;20230601;Rio de Janeiro;RJ;Brasil;04/04/1991;Feminino;Pessoa Física;Ativo
+2228;Vicente Rocha Alves;vicente.alves@email.com;(31) 98765-0228;20240115;Belo Horizonte;MG;Brasil;11/11/1997;Masculino;Pessoa Física;Ativo
+2229;Yasmin Gomes Souza;yasmin.souza@email.com;(41) 98765-0229;20220701;Curitiba;PR;Brasil;01/05/1984;Feminino;Pessoa Física;Ativo
+2230;Wallace Dias Martins;wallace.martins@email.com;(51) 98765-0230;20230210;Porto Alegre;RS;Brasil;12/12/1999;Masculino;Pessoa Física;Ativo
+2231;Xenia Oliveira Pinto;xenia.pinto@email.com;(61) 98765-0231;20240305;Brasília;DF;Brasil;03/08/1983;Feminino;Pessoa Física;Ativo
+2232;Yuri Santos Ribeiro;yuri.ribeiro@email.com;(71) 98765-0232;20221025;Salvador;BA;Brasil;10/03/1995;Masculino;Pessoa Física;Ativo
+2233;Zara Costa Cruz;zara.cruz@email.com;(81) 98765-0233;20230701;Recife;PE;Brasil;20/10/1990;Feminino;Pessoa Física;Ativo
+2234;Arthur Alves Oliveira;arthur.oliveira@email.com;(91) 98765-0234;20240108;Belém;PA;Brasil;01/01/1982;Masculino;Pessoa Física;Ativo
+2235;Bianca Lima Santos;bianca.santos@email.com;(11) 98765-0235;20220820;São Paulo;SP;Brasil;15/06/1996;Feminino;Pessoa Física;Ativo
+2236;Caio Mendes Pereira;caio.pereira@email.com;(21) 98765-0236;20230310;Rio de Janeiro;RJ;Brasil;02/02/1987;Masculino;Pessoa Física;Ativo
+2237;Débora Rocha Alves;debora.alves@email.com;(31) 98765-0237;20240225;Belo Horizonte;MG;Brasil;29/09/1994;Feminino;Pessoa Física;Ativo
+2238;Érico Gomes Souza;erico.souza@email.com;(41) 98765-0238;20221108;Curitiba;PR;Brasil;08/04/1980;Masculino;Pessoa Física;Ativo
+2239;Fabiana Dias Martins;fabiana.martins@email.com;(51) 98765-0239;20230820;Porto Alegre;RS;Brasil;10/01/1997;Feminino;Pessoa Física;Ativo
+2240;Geraldo Oliveira Pinto;geraldo.pinto@email.com;(61) 98765-0240;20240103;Brasília;DF;Brasil;01/06/1981;Masculino;Pessoa Física;Ativo
+2241;Heloísa Santos Ribeiro;heloisa.ribeiro@email.com;(71) 98765-0241;20220912;Salvador;BA;Brasil;15/03/1993;Feminino;Pessoa Física;Ativo
+2242;Ítalo Costa Cruz;italo.cruz@email.com;(81) 98765-0242;20230420;Recife;PE;Brasil;01/10/1986;Masculino;Pessoa Física;Ativo
+2243;Janaína Alves Oliveira;janaina.oliveira@email.com;(91) 98765-0243;20240308;Belém;PA;Brasil;05/05/1995;Feminino;Pessoa Física;Ativo
+2244;Kleber Lima Santos;kleber.santos@email.com;(11) 98765-0244;20221205;São Paulo;SP;Brasil;18/02/1988;Masculino;Pessoa Física;Ativo
+2245;Lúcia Mendes Pereira;lucia.pereira@email.com;(21) 98765-0245;20230615;Rio de Janeiro;RJ;Brasil;09/09/1991;Feminino;Pessoa Física;Ativo
+2246;Marcos Rocha Alves;marcos.alves@email.com;(31) 98765-0246;20240125;Belo Horizonte;MG;Brasil;20/06/1997;Masculino;Pessoa Física;Ativo
+2247;Natália Gomes Souza;natalia.souza@email.com;(41) 98765-0247;20220705;Curitiba;PR;Brasil;01/01/1984;Feminino;Pessoa Física;Ativo
+2248;Olívia Dias Martins;olivia.martins@email.com;(51) 98765-0248;20230218;Porto Alegre;RS;Brasil;14/07/1999;Feminino;Pessoa Física;Ativo
+2249;Pedro Oliveira Pinto;pedro.pinto@email.com;(61) 98765-0249;20240315;Brasília;DF;Brasil;03/10/1983;Masculino;Pessoa Física;Ativo
+2250;Quezia Santos Ribeiro;quezia.ribeiro@email.com;(71) 98765-0250;20221010;Salvador;BA;Brasil;22/04/1995;Feminino;Pessoa Física;Ativo
+2251;Rafael Costa Cruz;rafael.cruz@email.com;(81) 98765-0251;20230725;Recife;PE;Brasil;18/12/1990;Masculino;Pessoa Física;Ativo
+2252;Sofia Alves Oliveira;sofia.oliveira@email.com;(91) 98765-0252;20240101;Belém;PA;Brasil;01/08/1982;Feminino;Pessoa Física;Ativo
+2253;Tiago Lima Santos;tiago.santos@email.com;(11) 98765-0253;20220801;São Paulo;SP;Brasil;09/02/1996;Masculino;Pessoa Física;Ativo
+2254;Úrsula Mendes Pereira;ursula.pereira@email.com;(21) 98765-0254;20230301;Rio de Janeiro;RJ;Brasil;26/07/1991;Feminino;Pessoa Física;Ativo
+2255;Vicente Rocha Alves;vicente.alves@email.com;(31) 98765-0255;20240210;Belo Horizonte;MG;Brasil;05/03/1997;Masculino;Pessoa Física;Ativo
+2256;Yasmin Gomes Souza;yasmin.souza@email.com;(41) 98765-0256;20221110;Curitiba;PR;Brasil;15/10/1984;Feminino;Pessoa Física;Ativo
+2257;Wallace Dias Martins;wallace.martins@email.com;(51) 98765-0257;20230920;Porto Alegre;RS;Brasil;01/05/1999;Masculino;Pessoa Física;Ativo
+2258;Xenia Oliveira Pinto;xenia.pinto@email.com;(61) 98765-0258;20240308;Brasília;DF;Brasil;22/02/1983;Feminino;Pessoa Física;Ativo
+2259;Yuri Santos Ribeiro;yuri.ribeiro@email.com;(71) 98765-0259;20221015;Salvador;BA;Brasil;04/09/1995;Masculino;Pessoa Física;Ativo
+2260;Zara Costa Cruz;zara.cruz@email.com;(81) 98765-0260;20230705;Recife;PE;Brasil;10/04/1990;Feminino;Pessoa Física;Ativo
+2261;Arthur Alves Oliveira;arthur.oliveira@email.com;(91) 98765-0261;20240129;Belém;PA;Brasil;28/11/1982;Masculino;Pessoa Física;Ativo
+2262;Bianca Lima Santos;bianca.santos@email.com;(11) 98765-0262;20221220;São Paulo;SP;Brasil;03/08/1996;Feminino;Pessoa Física;Ativo
+2263;Caio Mendes Pereira;caio.pereira@email.com;(21) 98765-0263;20230625;Rio de Janeiro;RJ;Brasil;12/05/1987;Masculino;Pessoa Física;Ativo
+2264;Débora Rocha Alves;debora.alves@email.com;(31) 98765-0264;20240105;Belo Horizonte;MG;Brasil;01/02/1994;Feminino;Pessoa Física;Ativo
+2265;Érico Gomes Souza;erico.souza@email.com;(41) 98765-0265;20220710;Curitiba;PR;Brasil;17/09/1980;Masculino;Pessoa Física;Ativo
+2266;Fabiana Dias Martins;fabiana.martins@email.com;(51) 98765-0266;20230201;Porto Alegre;RS;Brasil;05/10/1999;Feminino;Pessoa Física;Ativo
+2267;Geraldo Oliveira Pinto;geraldo.pinto@email.com;(61) 98765-0267;20240322;Brasília;DF;Brasil;20/04/1981;Masculino;Pessoa Física;Ativo
+2268;Heloísa Santos Ribeiro;heloisa.ribeiro@email.com;(71) 98765-0268;20221028;Salvador;BA;Brasil;01/07/1993;Feminino;Pessoa Física;Ativo
+2269;Ítalo Costa Cruz;italo.cruz@email.com;(81) 98765-0269;20230710;Recife;PE;Brasil;01/01/1986;Masculino;Pessoa Física;Ativo
+2270;Janaína Alves Oliveira;janaina.oliveira@email.com;(91) 98765-0270;20240112;Belém;PA;Brasil;18/08/1995;Feminino;Pessoa Física;Ativo
+2271;Kleber Lima Santos;kleber.santos@email.com;(11) 98765-0271;20220805;São Paulo;SP;Brasil;25/03/1988;Masculino;Pessoa Física;Ativo
+2272;Lúcia Mendes Pereira;lucia.pereira@email.com;(21) 98765-0272;20230308;Rio de Janeiro;RJ;Brasil;02/10/1991;Feminino;Pessoa Física;Ativo
+2273;Marcos Rocha Alves;marcos.alves@email.com;(31) 98765-0273;20240220;Belo Horizonte;MG;Brasil;09/06/1997;Masculino;Pessoa Física;Ativo
+2274;Natália Gomes Souza;natalia.souza@email.com;(41) 98765-0274;20221115;Curitiba;PR;Brasil;28/04/1984;Feminino;Pessoa Física;Ativo
+2275;Olívia Dias Martins;olivia.martins@email.com;(51) 98765-0275;20230905;Porto Alegre;RS;Brasil;20/01/1999;Feminino;Pessoa Física;Ativo
+2276;Pedro Oliveira Pinto;pedro.pinto@email.com;(61) 98765-0276;20240301;Brasília;DF;Brasil;07/07/1983;Masculino;Pessoa Física;Ativo
+2277;Quezia Santos Ribeiro;quezia.ribeiro@email.com;(71) 98765-0277;20221018;Salvador;BA;Brasil;14/02/1995;Feminino;Pessoa Física;Ativo
+2278;Rafael Costa Cruz;rafael.cruz@email.com;(81) 98765-0278;20230701;Recife;PE;Brasil;01/09/1990;Masculino;Pessoa Física;Ativo
+2279;Sofia Alves Oliveira;sofia.oliveira@email.com;(91) 98765-0279;20240120;Belém;PA;Brasil;05/05/1982;Feminino;Pessoa Física;Ativo
+2280;Tiago Lima Santos;tiago.santos@email.com;(11) 98765-0280;20220810;São Paulo;SP;Brasil;10/03/1996;Masculino;Pessoa Física;Ativo
+2281;Úrsula Mendes Pereira;ursula.pereira@email.com;(21) 98765-0281;20230315;Rio de Janeiro;RJ;Brasil;01/08/1991;Feminino;Pessoa Física;Ativo
+2282;Vicente Rocha Alves;vicente.alves@email.com;(31) 98765-0282;20240205;Belo Horizonte;MG;Brasil;25/04/1997;Masculino;Pessoa Física;Ativo
+2283;Yasmin Gomes Souza;yasmin.souza@email.com;(41) 98765-0283;20221125;Curitiba;PR;Brasil;01/11/1984;Feminino;Pessoa Física;Ativo
+2284;Wallace Dias Martins;wallace.martins@email.com;(51) 98765-0284;20230910;Porto Alegre;RS;Brasil;18/06/1999;Masculino;Pessoa Física;Ativo
+2285;Xenia Oliveira Pinto;xenia.pinto@email.com;(61) 98765-0285;20240312;Brasília;DF;Brasil;03/03/1983;Feminino;Pessoa Física;Ativo
+2286;Yuri Santos Ribeiro;yuri.ribeiro@email.com;(71) 98765-0286;20221001;Salvador;BA;Brasil;10/10/1995;Masculino;Pessoa Física;Ativo
+2287;Zara Costa Cruz;zara.cruz@email.com;(81) 98765-0287;20230720;Recife;PE;Brasil;25/05/1990;Feminino;Pessoa Física;Ativo
+2288;Arthur Alves Oliveira;arthur.oliveira@email.com;(91) 98765-0288;20240101;Belém;PA;Brasil;01/12/1982;Masculino;Pessoa Física;Ativo
+2289;Bianca Lima Santos;bianca.santos@email.com;(11) 98765-0289;20220805;São Paulo;SP;Brasil;15/04/1996;Feminino;Pessoa Física;Ativo
+2290;Caio Mendes Pereira;caio.pereira@email.com;(21) 98765-0290;20230301;Rio de Janeiro;RJ;Brasil;01/01/1987;Masculino;Pessoa Física;Ativo
+2291;Débora Rocha Alves;debora.alves@email.com;(31) 98765-0291;20240215;Belo Horizonte;MG;Brasil;20/08/1994;Feminino;Pessoa Física;Ativo
+2292;Érico Gomes Souza;erico.souza@email.com;(41) 98765-0292;20221101;Curitiba;PR;Brasil;10/03/1980;Masculino;Pessoa Física;Ativo
+2293;Fabiana Dias Martins;fabiana.martins@email.com;(51) 98765-0293;20230810;Porto Alegre;RS;Brasil;01/02/1997;Feminino;Pessoa Física;Ativo
+2294;Geraldo Oliveira Pinto;geraldo.pinto@email.com;(61) 98765-0294;20240120;Brasília;DF;Brasil;05/07/1981;Masculino;Pessoa Física;Ativo
+2295;Heloísa Santos Ribeiro;heloisa.ribeiro@email.com;(71) 98765-0295;20220920;Salvador;BA;Brasil;28/04/1993;Feminino;Pessoa Física;Ativo
+2296;Ítalo Costa Cruz;italo.cruz@email.com;(81) 98765-0296;20230510;Recife;PE;Brasil;15/11/1986;Masculino;Pessoa Física;Ativo
+2297;Janaína Alves Oliveira;janaina.oliveira@email.com;(91) 98765-0297;20240305;Belém;PA;Brasil;01/06/1995;Feminino;Pessoa Física;Ativo
+2298;Kleber Lima Santos;kleber.santos@email.com;(11) 98765-0298;20221215;São Paulo;SP;Brasil;01/03/1988;Masculino;Pessoa Física;Ativo
+2299;Lúcia Mendes Pereira;lucia.pereira@email.com;(21) 98765-0299;20230620;Rio de Janeiro;RJ;Brasil;05/10/1991;Feminino;Pessoa Física;Ativo
+2300;Marcos Rocha Alves;marcos.alves@email.com;(31) 98765-0300;20240110;Belo Horizonte;MG;Brasil;10/07/1997;Masculino;Pessoa Física;Ativo
+2301;Natália Gomes Souza;natalia.souza@email.com;(41) 98765-0301;20220720;Curitiba;PR;Brasil;25/01/1984;Feminino;Pessoa Física;Ativo
+2302;Olívia Dias Martins;olivia.martins@email.com;(51) 98765-0302;20230205;Porto Alegre;RS;Brasil;01/08/1999;Feminino;Pessoa Física;Ativo
+2303;Pedro Oliveira Pinto;pedro.pinto@email.com;(61) 98765-0303;20240328;Brasília;DF;Brasil;04/04/1983;Masculino;Pessoa Física;Ativo
+2304;Quezia Santos Ribeiro;quezia.ribeiro@email.com;(71) 98765-0304;20221025;Salvador;BA;Brasil;10/11/1995;Feminino;Pessoa Física;Ativo
+2305;Rafael Costa Cruz;rafael.cruz@email.com;(81) 98765-0305;20230715;Recife;PE;Brasil;18/02/1990;Masculino;Pessoa Física;Ativo
+2306;Sofia Alves Oliveira;sofia.oliveira@email.com;(91) 98765-0306;20240105;Belém;PA;Brasil;22/09/1982;Feminino;Pessoa Física;Ativo
+2307;Tiago Lima Santos;tiago.santos@email.com;(11) 98765-0307;20220815;São Paulo;SP;Brasil;01/05/1996;Masculino;Pessoa Física;Ativo
+2308;Úrsula Mendes Pereira;ursula.pereira@email.com;(21) 98765-0308;20230320;Rio de Janeiro;RJ;Brasil;15/12/1991;Feminino;Pessoa Física;Ativo
+2309;Vicente Rocha Alves;vicente.alves@email.com;(31) 98765-0309;20240208;Belo Horizonte;MG;Brasil;28/08/1997;Masculino;Pessoa Física;Ativo
+2310;Yasmin Gomes Souza;yasmin.souza@email.com;(41) 98765-0310;20221105;Curitiba;PR;Brasil;12/05/1981;Feminino;Pessoa Física;Ativo
