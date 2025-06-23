@@ -1,0 +1,12 @@
+ID_Fornecedor;Nome_Fornecedor;CNPJ;Telefone;Email;Endereco;Cidade;Estado;Pais;Tipo;ID_Data_Cadastro;Status;Nome_Contato
+1;Visão Display Ltda.;01.234.567/0001-89;(11) 2345-6789;contato@visaodisplay.com.br;Rua das Telas, 123;São Paulo;SP;Brasil;Hardware;20200115;Ativo;Ana Silva
+2;Periféricos Essenciais S.A.;02.345.678/0001-90;(21) 3456-7890;vendas@perifericos.com.br;Av. dos Teclados, 456;Rio de Janeiro;RJ;Brasil;Hardware;20200320;Ativo;Bruno Costa
+3;SoftCorp Soluções;03.456.789/0001-01;(31) 4567-8901;comercial@softcorp.com.br;Praça do Software, 789;Belo Horizonte;MG;Brasil;Software;20210601;Ativo;Carla Dias
+4;Componentes Tech Brasil;04.567.890/0001-02;(41) 5678-9012;vendas@comptech.com.br;Alameda dos Chips, 101;Curitiba;PR;Brasil;Hardware;20201110;Ativo;Daniel Rocha
+5;Soluções Portáteis Ltda.;05.678.901/0001-03;(51) 6789-0123;contato@solucoesportateis.com.br;Travessa dos Notebooks, 202;Porto Alegre;RS;Brasil;Hardware;20220225;Ativo;Elisa Fernandes
+6;Conecte Tudo S.A.;06.789.012/0001-04;(61) 7890-1234;suporte@conectetudo.com.br;Av. da Conectividade, 303;Brasília;DF;Brasil;Hardware;20200705;Ativo;Fábio Gomes
+7;CreativeWare Studio;07.890.123/0001-05;(71) 8901-2345;info@creativeware.com.br;Rua da Criação, 404;Salvador;BA;Brasil;Software;20200912;Ativo;Gabriela Lima
+8;Inovação Hardware Brasil;08.901.234/0001-06;(81) 9012-3456;vendas@inovahardware.com.br;Av. da Tecnologia, 505;Recife;PE;Brasil;Hardware;20200401;Ativo;Hugo Pereira
+9;SecureSoft Brasil;09.012.345/0001-07;(91) 0123-4567;comercial@securesoft.com.br;Praça da Segurança, 606;Belém;PA;Brasil;Software;20210120;Ativo;Isabela Santos
+10;Entretenimento Digital Ltda.;10.123.456/0001-08;(11) 1234-5678;games@entretenimento.com.br;Rua dos Jogos, 707;São Paulo;SP;Brasil;Software;20220518;Ativo;João Mendes
+11;Armazenamento Seguro S.A.;11.234.567/0001-09;(19) 2345-6789;contato@armazenamento.com.br;Av. dos Dados, 808;Campinas;SP;Brasil;Hardware;20200301;Ativo;Laura Costa
