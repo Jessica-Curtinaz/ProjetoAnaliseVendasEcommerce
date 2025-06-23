@@ -1,0 +1,39 @@
+ID_Funcionario;Nome_Completo;Email;Telefone;ID_Data_Contratacao;Departamento;Cargo;Gerente_ID;Status;Data_Nascimento;Genero
+101;Ana Paula Silva;ana.silva@empresa.com.br;(11) 98765-4321;20220110;Vendas;Vendedor Júnior;100;Ativo;15/03/1995;Feminino
+102;Bruno Costa Lima;bruno.lima@empresa.com.br;(11) 98765-4322;20210520;Vendas;Vendedor Pleno;100;Ativo;22/07/1990;Masculino
+103;Carla Dias Santos;carla.santos@empresa.com.br;(11) 98765-4323;20230218;Vendas;Vendedor Júnior;100;Ativo;01/11/1998;Feminino
+104;Daniel Rocha Pereira;daniel.pereira@empresa.com.br;(11) 98765-4324;20200805;Vendas;Vendedor Sênior;100;Ativo;25/04/1985;Masculino
+105;Elisa Fernandes Souza;elisa.souza@empresa.com.br;(11) 98765-4325;20240102;Vendas;Vendedor Trainee;100;Ativo;10/09/2000;Feminino
+106;Fábio Gomes Alves;fabio.alves@empresa.com.br;(11) 98765-4326;20211111;Vendas;Vendedor Pleno;100;Ativo;30/01/1992;Masculino
+107;Gabriela Lima Martins;gabriela.martins@empresa.com.br;(11) 98765-4327;20220701;Vendas;Vendedor Júnior;100;Ativo;05/06/1997;Feminino
+108;Hugo Pereira Neves;hugo.neves@empresa.com.br;(11) 98765-4328;20200315;Vendas;Vendedor Sênior;100;Ativo;12/12/1988;Masculino
+109;Isabela Santos Cruz;isabela.cruz@empresa.com.br;(11) 98765-4329;20230901;Vendas;Vendedor Pleno;100;Ativo;28/02/1993;Feminino
+110;João Mendes Oliveira;joao.oliveira@empresa.com.br;(11) 98765-4330;20210201;Vendas;Vendedor Sênior;100;Ativo;19/08/1987;Masculino
+111;Laura Costa Rocha;laura.rocha@empresa.com.br;(11) 98765-4331;20220410;Vendas;Vendedor Júnior;100;Ativo;03/05/1996;Feminino
+112;Marcelo Silva Dias;marcelo.dias@empresa.com.br;(11) 98765-4332;20200101;Vendas;Vendedor Sênior;100;Ativo;10/10/1984;Masculino
+113;Natália Alves Pereira;natalia.pereira@empresa.com.br;(11) 98765-4333;20230620;Vendas;Vendedor Pleno;100;Ativo;17/04/1991;Feminino
+114;Otávio Souza Martins;otavio.martins@empresa.com.br;(11) 98765-4334;20221001;Vendas;Vendedor Júnior;100;Ativo;08/01/1999;Masculino
+115;Patrícia Lima Santos;patricia.santos@empresa.com.br;(11) 98765-4335;20210901;Vendas;Vendedor Sênior;100;Ativo;07/07/1986;Feminino
+116;Ricardo Neves Costa;ricardo.costa@empresa.com.br;(11) 98765-4336;20230401;Vendas;Vendedor Pleno;100;Ativo;20/03/1994;Masculino
+117;Sofia Oliveira Alves;sofia.alves@empresa.com.br;(11) 98765-4337;20220214;Vendas;Vendedor Júnior;100;Ativo;01/12/1997;Feminino
+118;Thiago Martins Rocha;thiago.rocha@empresa.com.br;(11) 98765-4338;20200601;Vendas;Vendedor Sênior;100;Ativo;09/09/1989;Masculino
+119;Úrsula Pereira Dias;ursula.dias@empresa.com.br;(11) 98765-4339;20240301;Vendas;Vendedor Trainee;100;Ativo;04/04/2001;Feminino
+120;Victor Santos Lima;victor.lima@empresa.com.br;(11) 98765-4340;20210715;Vendas;Vendedor Pleno;100;Ativo;28/10/1991;Masculino
+100;Gustavo Farias;gerente.vendas@empresa.com.br;(11) 98765-0000;20200101;Vendas;Gerente de Vendas;;Ativo;01/01/1980;Masculino
+121;Amanda Ferreira;amanda.ferreira@empresa.com.br;(11) 98765-4341;20230105;Marketing;Analista de Marketing;150;Ativo;10/02/1996;Feminino
+122;Carlos Eduardo;carlos.eduardo@empresa.com.br;(11) 98765-4342;20220310;Marketing;Especialista SEO;150;Ativo;20/08/1990;Masculino
+123;Juliana Vieira;juliana.vieira@empresa.com.br;(11) 98765-4343;20210601;Marketing;Coordenador de Marketing;150;Ativo;12/05/1987;Feminino
+150;Pamela Pereira;gerente.marketing@empresa.com.br;(11) 98765-0001;20200701;Marketing;Gerente de Marketing;;Ativo;03/03/1978;Feminino
+124;Pedro Henrique;pedro.henrique@empresa.com.br;(11) 98765-4344;20220915;Suporte;Analista de Suporte;160;Ativo;29/11/1994;Masculino
+125;Fernanda Guedes;fernanda.guedes@empresa.com.br;(11) 98765-4345;20230501;Suporte;Atendente de Suporte;160;Ativo;07/07/1999;Feminino
+160;Anderson Souza;gerente.suporte@empresa.com.br;(11) 98765-0002;20200401;Suporte;Gerente de Suporte;;Ativo;09/09/1982;Masculino
+126;Rafaela Santos;rafaela.santos@empresa.com.br;(11) 98765-4346;20210820;RH;Analista de RH;170;Ativo;25/01/1993;Feminino
+170;Andressa Severo;gerente.rh@empresa.com.br;(11) 98765-0003;20201001;RH;Gerente de RH;;Ativo;18/06/1975;Feminino
+171;Gustavo Almeida;gustavo.almeida@empresa.com.br;(11) 98765-4347;20200201;Vendas;Vendedor Sênior;100;Desligado;10/04/1986;Masculino
+172;Helena Barros;helena.barros@empresa.com.br;(11) 98765-4348;20210310;Marketing;Analista de Marketing;150;Desligado;05/09/1992;Feminino
+173;Igor Carvalho;igor.carvalho@empresa.com.br;(11) 98765-4349;20220720;Suporte;Atendente de Suporte;160;Desligado;18/01/1997;Masculino
+174;Júlia Dantas;julia.dantas@empresa.com.br;(11) 98765-4350;20201101;Vendas;Vendedor Pleno;100;Desligado;22/06/1990;Feminino
+175;Kevin Esteves;kevin.esteves@empresa.com.br;(11) 98765-4351;20230115;RH;Analista de RH;170;Desligado;03/08/1995;Masculino
+176;Lívia Franco;livia.franco@empresa.com.br;(11) 98765-4352;20210401;Vendas;Vendedor Júnior;100;Desligado;14/02/1998;Feminino
+177;Miguel Guedes;miguel.guedes@empresa.com.br;(11) 98765-4353;20220801;Marketing;Especialista SEO;150;Desligado;20/11/1989;Masculino
+178;Nina Hermes;nina.hermes@empresa.com.br;(11) 98765-4354;20240210;Vendas;Vendedor Trainee;100;Licença;01/05/2000;Feminino
