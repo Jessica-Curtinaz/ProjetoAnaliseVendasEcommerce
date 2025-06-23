@@ -1,0 +1,151 @@
+ID_Produto;Nome_Produto;Descricao;Custo;Preco;Estoque;ID_Fornecedor
+HW0001;"Monitor LED 24""";Monitor LED Full HD 24 polegadas;350;700;50;1
+HW0002;Teclado Mecânico RGB;Teclado gamer mecânico com retroiluminação RGB;180;350;120;2
+HW0003;Mouse Óptico Sem Fio;Mouse ergonômico sem fio com 1600 DPI;50;100;200;2
+SW0001;Sistema Operacional Pro;Licença vitalícia do Sistema Operacional Pro v10;400;800;150;3
+HW0004;SSD 500GB NVMe;SSD NVMe de alta velocidade 500GB;250;500;80;4
+HW0005;Placa de Vídeo RTX 3060;Placa de vídeo NVIDIA GeForce RTX 3060 12GB;1500;2800;30;4
+SW0002;Pacote Office Premium;Assinatura anual do Pacote Office Premium;150;300;300;3
+HW0006;"Notebook Ultra Slim 14""";Notebook leve com Intel i5, 8GB RAM, 256GB SSD;2200;4500;40;5
+HW0007;Webcam Full HD;Webcam 1080p com microfone embutido;80;160;180;2
+SW0003;Antivírus Ultimate;Licença de 1 ano para Antivírus Ultimate (3 dispositivos);70;140;250;9
+HW0008;Roteador Wi-Fi 6;Roteador dual-band Wi-Fi 6 AX1800;120;240;90;6
+HW0009;Fone de Ouvido Gamer;Headset gamer com som surround 7.1 e microfone retrátil;100;200;110;2
+SW0004;Software de Edição de Imagem;Licença perpétua para software profissional de edição de imagem;600;1200;70;7
+HW0010;Impressora Multifuncional;Impressora jato de tinta multifuncional com Wi-Fi;300;600;60;8
+HW0011;Processador Intel i7;Processador Intel Core i7 de última geração;1200;2300;25;4
+SW0005;Ferramenta de Análise de Dados;Assinatura mensal de ferramenta de análise de dados em nuvem;200;400;100;3
+HW0012;Memória RAM DDR4 16GB;Módulo de memória RAM DDR4 3200MHz 16GB;280;550;75;4
+HW0013;Gabinete Gamer Mid-Tower;Gabinete com lateral de vidro temperado e fans RGB;250;500;55;8
+SW0006;Jogo Aventura Épica;"Licença digital para o jogo ""Aventura Épica""";80;160;400;10
+HW0014;Placa Mãe B550;Placa mãe AMD B550 com suporte a PCIe 4.0;600;1100;35;4
+SW0007;Software de Gestão Financeira;Licença anual para software de gestão financeira pessoal;90;180;180;3
+HW0015;"Monitor Curvo Gamer 27""";Monitor curvo 144Hz 1ms 27 polegadas;800;1500;45;1
+HW0016;Cooler CPU Líquido;Cooler para CPU com refrigeração líquida 240mm;150;300;65;4
+SW0008;Ferramenta de CRM Básico;Assinatura mensal de ferramenta de CRM para pequenas empresas;120;250;90;3
+HW0017;HD Externo 2TB;Disco rígido externo portátil 2TB USB 3.0;180;360;130;11
+HW0018;Soundbar para PC;Soundbar compacta com áudio de alta fidelidade;90;180;100;8
+SW0009;Software de Design Gráfico;Licença de 1 ano para software de design gráfico;350;700;60;7
+HW0019;Câmera de Segurança IP;Câmera IP Full HD com visão noturna e detecção de movimento;200;400;70;8
+HW0020;Fonte de Alimentação 650W;Fonte de alimentação 80 Plus Bronze 650W;220;440;85;4
+SW0010;Aplicativo de Produtividade;Assinatura anual de aplicativo de organização e produtividade;40;80;500;3
+HW0021;"Tablet Android 10""";Tablet com tela de 10 polegadas, 64GB de armazenamento;700;1400;30;5
+HW0022;Teclado Sem Fio Ergonômico;Teclado e mouse sem fio ergonômicos;120;240;95;2
+SW0011;Software de Automação de Marketing;Licença mensal para automação de e-mail marketing;180;360;40;3
+HW0023;"Monitor Ultrawide 29""";Monitor Ultrawide Full HD 29 polegadas;600;1200;25;1
+HW0024;Placa de Som Externa;Placa de som USB externa 7.1;70;140;115;2
+SW0012;Ferramenta de Gerenciamento de Projetos;Assinatura anual de plataforma de gerenciamento de projetos;250;500;80;3
+HW0025;Mini PC Compacto;Mini PC com Intel Celeron, 4GB RAM, 128GB SSD;900;1800;35;5
+HW0026;Adaptador Wi-Fi USB;Adaptador Wi-Fi USB de alta velocidade;30;60;250;6
+SW0013;Software de Contabilidade PME;Licença anual para software de contabilidade para PMEs;450;900;50;3
+HW0027;Cadeira Gamer Ergonômica;Cadeira gamer com ajuste lombar e apoio de braço 4D;400;800;40;8
+HW0028;Microfone Condensador USB;Microfone para streaming e gravação de voz;130;260;80;8
+SW0014;Software de Recuperação de Dados;Licença vitalícia para recuperação de arquivos perdidos;100;200;150;9
+HW0029;Drone com Câmera 4K;Drone dobrável com câmera 4K e GPS;1000;2000;15;8
+HW0030;Smartwatch Esportivo;Smartwatch com monitor de frequência cardíaca e GPS;300;600;70;8
+SW0015;Aplicativo de Edição de Vídeo;Assinatura mensal de aplicativo de edição de vídeo;100;200;120;7
+HW0031;Projetor Portátil Full HD;Projetor LED portátil com resolução Full HD;500;1000;20;8
+HW0032;Leitor de Cartão de Memória;Leitor de cartão SD/MicroSD USB 3.0;20;40;300;6
+SW0016;Software de Backup em Nuvem;Assinatura anual de serviço de backup ilimitado em nuvem;60;120;200;9
+HW0033;Hub USB-C Multiportas;Hub USB-C com HDMI, USB 3.0 e Leitor de Cartão;70;140;160;6
+HW0034;Adaptador Bluetooth 5.0;Adaptador Bluetooth USB 5.0 para PC;25;50;280;6
+SW0017;Ferramenta de SEO Avançada;Assinatura mensal de ferramenta para otimização de SEO;300;600;30;3
+HW0035;Estabilizador de Tensão;Estabilizador de tensão 1000VA para equipamentos;150;300;90;8
+HW0036;Pen Drive 128GB USB 3.0;Pen drive de alta velocidade 128GB;60;120;220;11
+SW0018;Software de Gerenciamento de Senhas;Licença vitalícia para gerenciador de senhas;50;100;250;9
+HW0037;Placa de Captura HDMI;Placa de captura de vídeo HDMI para streaming;250;500;45;6
+HW0038;Kit Teclado e Mouse Gamer;Kit com teclado semi-mecânico e mouse gamer RGB;150;300;100;2
+SW0019;Software de Modelagem 3D;Licença anual para software de modelagem 3D;800;1600;20;7
+HW0039;"Monitor Portátil 15.6""";Monitor externo portátil Full HD USB-C;400;800;30;1
+HW0040;Suporte para Monitor Duplo;Suporte de mesa para dois monitores;100;200;70;8
+SW0020;Aplicativo de Idiomas Premium;Assinatura anual de aplicativo de aprendizado de idiomas;70;140;180;10
+HW0041;Câmera de Ação 4K;Câmera de ação à prova d'água com gravação 4K;600;1200;25;8
+HW0042;Carregador Sem Fio Rápido;Carregador sem fio por indução 15W;40;80;200;8
+SW0021;Software de Edição de Áudio;Licença vitalícia para software de edição de áudio;200;400;70;7
+HW0043;Adaptador DisplayPort para HDMI;Adaptador para conectar DisplayPort a HDMI;30;60;150;6
+HW0044;Cabo HDMI 2.0 2 Metros;Cabo HDMI de alta velocidade 2 metros;15;30;400;6
+SW0022;Ferramenta de Colaboração Online;Assinatura mensal de plataforma de colaboração em equipe;90;180;100;3
+HW0045;Placa de Rede Gigabit Ethernet;Placa de rede PCI-E Gigabit Ethernet;50;100;120;6
+HW0046;Bateria Externa Power Bank 10000mAh;Power bank portátil com 10000mAh;80;160;130;8
+SW0023;Software de VPN Premium;Licença de 1 ano para serviço de VPN premium;60;120;90;9
+HW0047;Fone de Ouvido Bluetooth Esportivo;Fone de ouvido sem fio para esportes, resistente a suor;70;140;140;2
+HW0048;Adaptador USB para Ethernet;Adaptador USB 3.0 para Gigabit Ethernet;40;80;180;6
+SW0024;Software de Gestão de Redes Sociais;Assinatura mensal para agendamento e análise de posts;150;300;50;3
+HW0049;Leitor de Código de Barras USB;Leitor de código de barras a laser USB;120;240;60;8
+HW0050;Kit Limpeza para Eletrônicos;Kit com spray, pano microfibra e pincel para limpeza;20;40;300;8
+SW0025;Jogo Estratégia Medieval;"Licença digital para o jogo ""Estratégia Medieval""";90;180;350;10
+HW0051;Adaptador USB-C para HDMI;Adaptador USB-C para HDMI 4K;45;90;170;6
+HW0052;Cabo de Força para PC;Cabo de força padrão para computadores;10;20;500;6
+SW0026;Software de Tradução Profissional;Licença anual para software de tradução com IA;280;560;40;7
+HW0053;Hub USB 3.0 com 4 Portas;Hub USB com 4 portas USB 3.0;35;70;210;6
+HW0054;Suporte para Notebook Ergonômico;Suporte ajustável para notebook;60;120;100;8
+SW0027;Aplicativo de Meditação Guiada;Assinatura mensal de aplicativo de bem-estar;30;60;400;10
+HW0055;Teclado Numérico USB;Teclado numérico externo USB;25;50;250;2
+HW0056;Adaptador de Áudio USB;Adaptador de áudio USB para fone e microfone;20;40;280;6
+SW0028;Software de Gestão de Estoque;Licença anual para software de controle de estoque;380;760;30;3
+HW0057;Mouse Pad Gamer Grande;Mouse pad estendido para teclado e mouse;40;80;150;2
+HW0058;Cabo de Rede Ethernet 5m;Cabo de rede Cat6 Ethernet 5 metros;20;40;350;6
+SW0029;Software de Edição de PDF;Licença vitalícia para edição e conversão de PDF;120;240;80;7
+HW0059;Adaptador DVI para HDMI;Adaptador DVI-D para HDMI;25;50;190;6
+HW0060;"Protetor de Tela para Notebook 15.6""";Película protetora para tela de notebook;30;60;200;8
+SW0030;Jogo RPG Fantasia;"Licença digital para o jogo ""RPG Fantasia""";75;150;380;10
+HW0061;Fone de Ouvido com Fio e Microfone;Fone de ouvido com fio e microfone para chamadas;30;60;250;2
+HW0062;Adaptador de Tomada Universal;Adaptador de tomada universal para viagens;20;40;300;6
+SW0031;Software de CRM Avançado;Assinatura anual de CRM com automação de vendas;500;1000;20;3
+HW0063;Suporte para Headset;Suporte de mesa para fone de ouvido;25;50;180;8
+HW0064;Cabo USB-C para USB-A 1m;Cabo USB-C para USB-A 1 metro;15;30;450;6
+SW0032;Software de Gestão de RH;Licença anual para software de gestão de recursos humanos;600;1200;15;3
+HW0065;Adaptador VGA para HDMI;Adaptador VGA para HDMI com áudio;40;80;130;6
+HW0066;Limpador de Tela Líquido;Líquido limpador de telas com pano;15;30;350;8
+SW0033;Aplicativo de Fitness Personalizado;Assinatura mensal de aplicativo de treino com IA;50;100;250;10
+HW0067;Webcam 720p Básica;Webcam HD 720p para videochamadas;40;80;200;2
+HW0068;Cabo DisplayPort 1.4 3m;Cabo DisplayPort de alta performance 3 metros;35;70;100;6
+SW0034;Software de E-commerce Básico;Assinatura mensal para plataforma de e-commerce;200;400;30;3
+HW0069;Adaptador de Áudio P2 para USB;Adaptador de áudio P2 para USB;15;30;300;6
+HW0070;Kit Ferramentas para PC;Kit de chaves e ferramentas para montagem de PC;50;100;120;8
+SW0035;Jogo Simulação de Cidade;"Licença digital para o jogo ""Simulação de Cidade""";85;170;320;10
+HW0071;Fone de Ouvido Intra-auricular;Fone de ouvido com fio, som estéreo;20;40;400;2
+HW0072;Cabo de Força para Monitor;Cabo de força para monitores e TVs;10;20;500;6
+SW0036;Software de Gestão de Conteúdo;Licença anual para sistema de gestão de conteúdo (CMS);400;800;25;3
+HW0073;Adaptador USB-C para Ethernet + USB;Adaptador USB-C com porta Ethernet e USB 3.0;60;120;110;6
+HW0074;Suporte para Tablet Universal;Suporte ajustável para tablets;30;60;150;8
+SW0037;Aplicativo de Edição de Fotos Móvel;Assinatura anual de aplicativo de edição de fotos;25;50;450;7
+HW0075;Teclado Bluetooth para Tablet;Teclado sem fio Bluetooth para tablets;70;140;90;2
+HW0076;Adaptador de Áudio Óptico;Adaptador de áudio digital óptico;30;60;100;6
+SW0038;Software de Segurança de Rede;Licença anual para firewall e proteção de rede;550;1100;20;9
+HW0077;Mouse Vertical Ergonômico;Mouse vertical para conforto no uso;60;120;80;2
+HW0078;Cabo USB 3.0 A-B 2m;Cabo USB 3.0 para impressoras e HDs externos;15;30;300;6
+SW0039;Software de Análise de Vídeo;Licença mensal para análise de vídeo com IA;700;1400;10;7
+HW0079;Adaptador HDMI para VGA;Adaptador HDMI para VGA com áudio;35;70;140;6
+HW0080;Kit Limpeza de Telas;Líquido limpador de telas com pano;10;20;400;8
+SW0040;Jogo Corrida de Carros;"Licença digital para o jogo ""Corrida de Carros""";65;130;390;10
+HW0081;Fone de Ouvido On-Ear Bluetooth;Fone de ouvido Bluetooth on-ear;90;180;100;2
+HW0082;Cabo de Áudio P2-P2 1m;Cabo de áudio estéreo P2-P2 1 metro;10;20;500;6
+SW0041;Software de Gestão de Documentos;Licença anual para sistema de gestão de documentos;300;600;35;3
+HW0083;Adaptador USB-C para P2;Adaptador USB-C para fone de ouvido P2;20;40;250;6
+HW0084;Suporte para Smartphone Veicular;Suporte para celular para carro;25;50;200;8
+SW0042;Aplicativo de Receitas Culinárias;Assinatura anual de aplicativo de receitas;20;40;500;10
+HW0085;Teclado Flexível USB;Teclado de silicone flexível USB;40;80;150;2
+HW0086;Adaptador de Rede USB;Adaptador de rede USB para RJ45;30;60;180;6
+SW0043;Software de Edição de Áudio Profissional;Licença vitalícia para DAW (Digital Audio Workstation);450;900;15;7
+HW0087;Mouse Gamer RGB Sem Fio;Mouse gamer sem fio com RGB e alta precisão;150;300;70;2
+HW0088;Cabo de Força para Notebook;Cabo de força universal para notebooks;15;30;300;6
+SW0044;Software de Gestão de Clientes (Pequeno Porte);Licença anual para CRM simplificado;180;360;60;3
+HW0089;Adaptador HDMI Extensor;Extensor HDMI via cabo de rede;80;160;50;6
+HW0090;Kit Limpeza de Câmeras;Kit de limpeza para lentes e sensores de câmera;25;50;200;8
+SW0045;Jogo Quebra-Cabeça Lógico;"Licença digital para o jogo ""Quebra-Cabeça Lógico""";50;100;420;10
+HW0091;Fone de Ouvido com Cancelamento de Ruído;Fone de ouvido com cancelamento ativo de ruído;200;400;60;2
+HW0092;Cabo USB-C para DisplayPort;Cabo USB-C para DisplayPort 4K;40;80;100;6
+SW0046;Software de Automação de Processos (RPA);Licença anual para automação de tarefas repetitivas;800;1600;10;3
+HW0093;Adaptador USB-C para VGA;Adaptador USB-C para VGA;30;60;130;6
+HW0094;Suporte para Smartphone de Mesa;Suporte ajustável para celular em mesa;20;40;250;8
+SW0047;Aplicativo de Edição de Texto Avançado;Assinatura mensal de editor de texto com recursos de IA;40;80;300;7
+HW0095;Teclado Retroiluminado USB;Teclado com retroiluminação LED USB;80;160;100;2
+HW0096;Adaptador de Áudio USB-C para P2 Duplo;Adaptador USB-C para 2 fones P2;25;50;180;6
+SW0048;Software de Gestão de Projetos Ágil;Licença anual para plataforma de gestão ágil;450;900;20;3
+HW0097;Mouse Sem Fio Silencioso;Mouse sem fio com cliques silenciosos;40;80;150;2
+HW0098;Cabo de Áudio Óptico 2m;Cabo de áudio digital óptico 2 metros;20;40;200;6
+SW0049;Software de Análise de Mercado;Licença mensal para ferramenta de inteligência de mercado;600;1200;15;3
+HW0099;Adaptador HDMI para 2 Monitores;Splitter HDMI para dois monitores;50;100;80;6
+HW0100;Kit de Limpeza de Teclado;Kit com escova e aspirador USB para teclado;15;30;250;8
+SW0050;Jogo Ação e Aventura;"Licença digital para o jogo ""Ação e Aventura""";95;190;300;10
