@@ -1,2 +1,8 @@
-# ProjetoAnaliseVendasEcommerce
-Este repositório apresenta um projeto completo de análise de dados de ponta a ponta, focado no desempenho de vendas de produtos de hardware e software. O objetivo principal é demonstrar a aplicação prática de um conjunto de ferramentas essenciais no pipeline de análise de dados: Excel, Python, SQL Server e Power BI.
+# Visão Geral do Projeto
+O projeto simula um cenário de e-commerce, onde dados de vendas são coletados, modelados, transformados e visualizados para extrair insights acionáveis. Ele abrange todas as fases de um projeto de análise de dados, desde a preparação dos dados até a criação de dashboards interativos. 
+
+# Objetivo
+Construir um modelo de dados dimensional robusto para análise de vendas.
+Automatizar o processo de ingestão de dados de diferentes fontes.
+Realizar análises descritivas para identificar tendências, padrões de compra e desempenho de produtos, clientes e vendedores.
+Criar um dashboard interativo no Power BI para visualização de KPIs e insights de negócio.
